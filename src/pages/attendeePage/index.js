@@ -1,9 +1,8 @@
-"use client";
 import React, { useState } from "react";
 import AttendeePagesModal from "../components/Modals/AttendeePagesModal";
 import Footer from "../components/Footer/Footer";
 
-function attendeePage() {
+function AttendeePage() {
   const [showModal1, setShowModal1] = useState(false);
   return (
     <div>
@@ -42,4 +41,4 @@ function attendeePage() {
   );
 }
 
-export default attendeePage;
+export default AttendeePage;
