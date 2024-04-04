@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 import Footer from "../components/Footer/Footer";
-import VolunteersModal from "../components/Modals/volunteersModal";
+import VolunteersModal from "../components/Modals/VolunteersModal";
 
 function Volunteer() {
   const [showModal3, setShowModal3] = useState(false);
