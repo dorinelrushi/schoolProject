@@ -27,7 +27,7 @@ function Dashboard() {
             symposium typically features a diverse range of presentations,
             exhibits, performances, and interactive sessions across various
             disciplines such as science, technology, engineering, arts,
-            humanities, social sciences, and more. It's a collaborative and
+            humanities, social sciences, and more. Its a collaborative and
             inclusive space where students from different fields come together
             to share their work, exchange ideas, and engage in intellectual
             discourse.

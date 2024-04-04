@@ -13,7 +13,7 @@ function Volunteer() {
         {/* content */}
         <div className="text-[21px] w-[80%] m-auto mt-[20px]">
           <p className="mt-[60px] ">
-            As a volunteer at our symposium, you're stepping into a vibrant
+            As a volunteer at our symposium, youre stepping into a vibrant
             community dedicated to fostering knowledge, facilitating
             connections, and ensuring a seamless experience for all
             participants. Your dedication and skills are what make this event

@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from "react";
 import AttendeePagesModal from "../components/Modals/AttendeePagesModal";
 import Footer from "../components/Footer/Footer";
@@ -12,10 +13,10 @@ function attendeePage() {
         {/* content */}
         <div className="text-[21px] w-[80%] m-auto mt-[20px]">
           <p className="mt-[60px] ">
-            As an attendee of our symposium, you're about to embark on a journey
+            As an attendee of our symposium, youre about to embark on a journey
             of discovery, surrounded by the brightest minds and the latest
             advancements in our field. This event is more than just a
-            conference; it's a beacon for scholars, professionals, and
+            conference; its a beacon for scholars, professionals, and
             enthusiasts alike, offering unparalleled opportunities to learn,
             share, and network.
           </p>

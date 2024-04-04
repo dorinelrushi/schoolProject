@@ -12,7 +12,7 @@ function Profile() {
             today! Whether you have groundbreaking research, artistic creations,
             or inspiring ideas to share, this is your chance to shine. Join
             fellow students in presenting your work, engaging in insightful
-            discussions, and networking across diverse fields of study. Don't
+            discussions, and networking across diverse fields of study. Dont
             miss this opportunity to be part of a vibrant celebration of student
             excellence. Register now to reserve your spot and share your passion
             with our academic community!

@@ -20,7 +20,7 @@ function Student() {
             academic achievement and creativity. Now is the time to secure your
             spot! Register today to participate, present your work, and immerse
             yourself in a melting pot of ideas from diverse disciplines. Join us
-            in this intellectual journey where your contributions matter. Don't
+            in this intellectual journey where your contributions matter. Dont
             miss out—reserve your place now and become part of an enriching
             experience at our Student Spring Symposium!
           </p>

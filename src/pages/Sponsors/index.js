@@ -23,7 +23,7 @@ function Sponsors() {
           </h2>
           <ul className="list-disc flex flex-col gap-[10px] mb-[25px] ml-[35px]">
             <li>
-              Visibility: Enhance your organization's visibility among a dynamic
+              Visibility: Enhance your organizations visibility among a dynamic
               group of students, faculty, and attendees from diverse academic
               backgrounds. Your brand will be prominently featured in event
               materials, presentations, and promotional campaigns, providing
@@ -44,7 +44,7 @@ function Sponsors() {
             <li>
               Brand Alignment: Align your brand with innovation, education, and
               excellence. By sponsoring the symposium, you highlight your
-              organization’s commitment to supporting the development of future
+              organizations commitment to supporting the development of future
               leaders and innovators.
             </li>
           </ul>
